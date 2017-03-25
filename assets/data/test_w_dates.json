@@ -1,0 +1,21 @@
+{
+	"nodes": [
+		{"id": 0, "name": "Allison", "group": 1},
+		{"id": 1, "name": "Brandy", "group": 1},
+		{"id": 2, "name": "Carl", "group": 1},
+		{"id": 3, "name": "Darren", "group": 1},
+		{"id": 4, "name": "Erick", "group": 1},
+		{"id": 5, "name": "Florence", "group": 1},
+		{"id": 6, "name": "Gavin", "group": 1}
+	],
+	"links": [
+		{"source": 0, "target": 2, "value": 1, "event_date": "01-Jan-2016"},
+		{"source": 1, "target": 3, "value": 1, "event_date": "04-Jan-2016"},
+		{"source": 1, "target": 4, "value": 1, "event_date": "17-Jan-2016"},
+		{"source": 3, "target": 6, "value": 7, "event_date": "09-Jan-2016"},
+		{"source": 4, "target": 0, "value": 9, "event_date": "23-Jan-2016"},
+		{"source": 4, "target": 5, "value": 4, "event_date": "01-Jan-2016"},
+		{"source": 5, "target": 6, "value": 1, "event_date": "11-Jan-2016"},
+		{"source": 6, "target": 1, "value": 3, "event_date": "02-Jan-2016"}
+	]
+}
